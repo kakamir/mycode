@@ -10,6 +10,7 @@ namespace giiiittttttt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
         }
     }
 }
