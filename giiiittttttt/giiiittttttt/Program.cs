@@ -11,6 +11,7 @@ namespace giiiittttttt
         static void Main(string[] args)
         {
             Console.WriteLine("fellalalelallelalala"); 
+            Console.Write("Chabbe var här!");
         }
     }
 }
