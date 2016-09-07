@@ -11,7 +11,11 @@ namespace giiiittttttt
         static void Main(string[] args)
         {
             Console.WriteLine("fellalalelallelalala"); 
+<<<<<<< HEAD
             Console.Write("Chabbe var här!");
+=======
+            //Om Gud vill så funkar detta. 
+>>>>>>> origin/master
         }
     }
 }
