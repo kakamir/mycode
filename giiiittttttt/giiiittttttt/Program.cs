@@ -11,6 +11,7 @@ namespace giiiittttttt
         static void Main(string[] args)
         {
             Console.WriteLine("fellalalelallelalala"); 
+            //Om Gud vill så funkar detta. 
         }
     }
 }
